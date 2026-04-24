@@ -1,0 +1,4 @@
+keylogger/node_modules
+keylogger/.env
+keylogger/.logs_db.txt
+keylogger/package-lock.json
